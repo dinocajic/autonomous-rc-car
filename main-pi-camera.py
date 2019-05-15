@@ -2,8 +2,6 @@
 #
 # Dino Cajic
 # Autonomous RC Vehicle
-# Embedded Systems
-# Project due: April 30, 2019
 #
 # OVERVIEW
 # The following file allows the rc vehicle to navigate based on a captured
